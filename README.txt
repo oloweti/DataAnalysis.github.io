@@ -7,5 +7,16 @@ Style downloaded: Massively
 
 
 ---To Upload New File For Publish-- 
-click "Add File" -> "Upload"
+click "Add File" above -> Select "Upload"
+Then
+---To publish
+Click "Settings"  --> Pages (In "Your site is live at" link should be refreshed and published.
+
+
+
+Noted Settings:
+Build and Deployement
+Source = "Deploy from a branch"
+Branch = "Main" and "Root"
+
 
